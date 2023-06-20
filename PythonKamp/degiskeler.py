@@ -1,0 +1,1 @@
+print("Mehaba python kampı")
